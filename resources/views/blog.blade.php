@@ -4,7 +4,7 @@
 	<title>blog</title>
 </head>
 <body>
-	<?php echo "este es el articulo numero  $id"; ?> 
+	este es el articulo numero  {{$identificador}}
 
 </body>
 </html>
